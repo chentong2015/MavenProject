@@ -9,8 +9,8 @@ MacOS环境变量配置：添加系统PATH环境变量
 > mvn -version
 
 MacOS Maven Local Repo 默认本地仓库
-  /Users/tongchen/.m2/settings.xml
-  /Users/tongchen/.m2/repository
+/Users/tongchen/.m2/settings.xml
+/Users/tongchen/.m2/repository
 
 Linux安装并配置:
 > wget 安装包的网页路径
